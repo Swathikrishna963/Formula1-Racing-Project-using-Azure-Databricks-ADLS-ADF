@@ -90,4 +90,15 @@ Public dataset source: [Ergast Developer API](http://ergast.com/mrd/) and Kaggle
 
 ---
 
-## 📁 Sample Folder Structure
+## 🤝 Let's Connect
+
+If you're interested in learning more or collaborating on cloud data projects, feel free to connect:
+
+- 💼 LinkedIn: [Swathi Krishna](https://linkedin.com/in/swathi-krishna-t-u-491832163)
+- 📧 Email: swathikrishna963@gmail.com
+
+---
+
+## 📜 License
+
+This project is licensed under the MIT License. See the `LICENSE` file for details.
