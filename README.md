@@ -98,7 +98,3 @@ If you're interested in learning more or collaborating on cloud data projects, f
 - 📧 Email: swathikrishna963@gmail.com
 
 ---
-
-## 📜 License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
