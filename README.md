@@ -48,7 +48,7 @@ The dataset includes historical Formula 1 data:
 - Pit Stops
 - Qualifying Sessions
 
-Public dataset source: [Ergast Developer API](http://ergast.com/mrd/) and Kaggle
+Public dataset source: [Ergast Developer API](http://ergast.com/mrd/)
 
 ---
 
